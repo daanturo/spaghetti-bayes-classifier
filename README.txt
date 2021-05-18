@@ -1,3 +1,5 @@
+(SPAGHETTI CODE AHEAD!!)
+
 Cách sử dụng chương trình:
 
 Nếu bạn muốn sử dụng dữ liệu mới, xin tham khảo các bước sau. Nếu bạn muốn sử dụng dữ liệu có sẵn, xem tiếp dòng 51.
