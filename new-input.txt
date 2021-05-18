@@ -1,0 +1,16 @@
+Color     Genre        Origin      Customer's_Gender
+red       sport        domestic    male      
+red       sport        domestic    female    
+red       sport        domestic    male      
+yellow    sport        domestic    female    
+yellow    sport        imported    male      
+yellow    traveling    imported    female    
+yellow    traveling    imported    male      
+yellow    traveling    domestic    female    
+red       traveling    imported    female    
+red       sport        imported    male
+-
+3 0.5
+red traveling domestic -
+yellow -  - female
+- - - male
